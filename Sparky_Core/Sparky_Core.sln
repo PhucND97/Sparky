@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sparky_Core", "Sparky_Core.vcxproj", "{A17ECDAD-99E0-411C-9B50-986C412560E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A17ECDAD-99E0-411C-9B50-986C412560E1}.Debug|x64.ActiveCfg = Debug|x64
+		{A17ECDAD-99E0-411C-9B50-986C412560E1}.Debug|x64.Build.0 = Debug|x64
+		{A17ECDAD-99E0-411C-9B50-986C412560E1}.Debug|x86.ActiveCfg = Debug|Win32
+		{A17ECDAD-99E0-411C-9B50-986C412560E1}.Debug|x86.Build.0 = Debug|Win32
+		{A17ECDAD-99E0-411C-9B50-986C412560E1}.Release|x64.ActiveCfg = Release|x64
+		{A17ECDAD-99E0-411C-9B50-986C412560E1}.Release|x64.Build.0 = Release|x64
+		{A17ECDAD-99E0-411C-9B50-986C412560E1}.Release|x86.ActiveCfg = Release|Win32
+		{A17ECDAD-99E0-411C-9B50-986C412560E1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {704A80EF-1DF0-4923-B403-FB95277D36AF}
+	EndGlobalSection
+EndGlobal
